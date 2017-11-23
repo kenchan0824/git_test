@@ -4,3 +4,4 @@ line 1.2
 line 2
 line 3
 After branch
+After rebase
